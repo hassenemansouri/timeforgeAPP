@@ -12,6 +12,14 @@
         <option value="$PROJECT_DIR$/TimeForge-microservices/Workspace_Workflow/pom.xml" />
         <option value="$PROJECT_DIR$/TimeForge-microservices/User_StrategicPartership/pom.xml" />
         <option value="$PROJECT_DIR$/TimeForge-microservices/Notification_Message_Collaboration/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/Goal_Reward/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/Notification_Message_Collaboration/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/Project_Task/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/User_StrategicPartership/pom.xml" />
+        <option value="$PROJECT_DIR$/backend/Workspace_Workflow/pom.xml" />
       </list>
     </option>
   </component>
