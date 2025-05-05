@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/TimeForge-microservices/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/Goal_Reward/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/Project_Task/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/Workspace_Workflow/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/User_StrategicPartership/pom.xml" />
+        <option value="$PROJECT_DIR$/TimeForge-microservices/Notification_Message_Collaboration/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
